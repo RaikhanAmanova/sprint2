@@ -4,8 +4,8 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres?currentSchema=g1-sprint2
-    username: halykfinance
-    password:
+    username: postgres
+    password: meruert1995
 
   jpa:
     hibernate:

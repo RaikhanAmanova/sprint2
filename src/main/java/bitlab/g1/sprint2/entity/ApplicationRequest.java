@@ -38,4 +38,6 @@ public class ApplicationRequest {
 
   @Column(name = "HANDLED", columnDefinition = "boolean default false")
   private boolean handled;
+
+
 }
